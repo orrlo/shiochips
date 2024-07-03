@@ -139,8 +139,7 @@ Custom Css
   height: 50px;
 }
 
-.montserrat-font {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
+@font-face {
+  font-family: 'Mula';
+  src: url(/assets/webfonts/MulaR-Bold.otf);
 }
